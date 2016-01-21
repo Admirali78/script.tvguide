@@ -1,0 +1,486 @@
+{"settings" : [
+		{
+		"version": "32",
+		"link": "http://portal.abissnet.al/tv/MoreTV.v32.apk",
+		"status": "1",
+		"fullname": "Endrit Mema(paspagim 24 mujore)",
+		"tvpin": "1234",
+        "delay_minutes": "240",
+		"broadcast": "0",
+		"broadcast_msg": "",
+        "payment_id": "3283",
+        "payment_value": "1290",
+        "payment_months": "1",
+        "payment_plan": "DGA Standart",
+        "payment_date": "2016-03-15"
+		
+			
+	}], "channels" : [{
+                "id": "48",
+                "name": "Top Channel",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2000.m3u8?st=JSqcLVj96M4RLo9al73C7w&e=1453437736",
+                "shift_link": "http://80.91.123.69:8081/live/hls6h/genti.m3u8?st=k6Q3-nBpq9I0BQrorRfVqw&e=1453437736",
+		        "pin": "0"
+            },{
+                "id": "49",
+                "name": "Klan TV",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2010.m3u8?st=ipfL4pM2FkovllnOVZjxUw&e=1453437736",
+                "shift_link": "http://80.91.123.69:8081/live/232.1.0.167.57002.2010.1h.m3u8?st=rEOUSjN3Lz77wtqRzeMjEw&e=1453437736",
+		        "pin": "0"
+            },{
+                "id": "78",
+                "name": "Top News",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1020.m3u8?st=nIDDjEw1GfCPx27aLMozrQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "162",
+                "name": "T HD",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57001.1400.m3u8?st=yCUoFkY0tpdWFeOdbx7iNg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "129",
+                "name": "Stinet",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1160.m3u8?st=_T3EW0stD5_8iVyxtLyOgA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "121",
+                "name": "My Music",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2120.m3u8?st=GrH3lDL8I3BQn5CDV8t6Wg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "81",
+                "name": "TVSH",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1220.m3u8?st=GgmxF3K-08gTHUQ7I2daEg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "80",
+                "name": "News 24",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1240.m3u8?st=oAyEFCosl6kWk0F1093DbQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "77",
+                "name": "Bang Bang",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1040.m3u8?st=PtXG9kXHKp_CGUQEGrRIiQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "41",
+                "name": "Cufo TV",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2110.m3u8?st=XvhyveAsA2HeFRBI7l7dXA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "64",
+                "name": "Baby TV",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1003.m3u8?st=z7UvJMfNWGcnLfABGRuBrg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "65",
+                "name": "Disney Channel",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1027.m3u8?st=2c6p5CVrnev6THt3f51j_Q&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "50",
+                "name": "Junior TV",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2100.m3u8?st=de5uihjxCNKnuV_XoEIIvw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "47",
+                "name": "Film Hits",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2180.m3u8?st=XevqJq1INnmf99P42A8dAQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "93",
+                "name": "Film Aksion",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1080.m3u8?st=4kCPjVgwcrelYNuHzJ1D6Q&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "51",
+                "name": "Film Thriller",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2190.m3u8?st=jRvQzgH5WKrKYGTellhtbQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "52",
+                "name": "Film Drame",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2200.m3u8?st=3C05XW6VjTadfe3A3sV40w&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "45",
+                "name": "Film Autor",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2170.m3u8?st=-DK9YhBXmiAVzsH4zsATsg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "82",
+                "name": "Film Komedi",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1100.m3u8?st=BqhgoY-uxdPyIcoqCXYhtQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "86",
+                "name": "Film Dy HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1002.m3u8?st=JyeY6GEEGmgaVAaxPP_2Ig&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "85",
+                "name": "Film Nje HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1001.m3u8?st=PAPiUHEo2uJjpHB7nQqCXQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "87",
+                "name": "Plus HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1003.m3u8?st=jVWK5ht2fMSY2X4dClJRBQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "79",
+                "name": "Exp Shkence",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1060.m3u8?st=VpenYDWu4r85aMvjNTcR-g&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "43",
+                "name": "EXP histori",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2140.m3u8?st=HpeGKwaNsZAlshj5ui6LUg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "42",
+                "name": "EXP Natyra",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2130.m3u8?st=0p-ElNKSo-yq91d_rx3K9Q&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "92",
+                "name": "Travel HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1009.m3u8?st=4TDrt0zMQV_Qvvp-Y9aSjg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "179",
+                "name": "Discovery Channel",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.807.m3u8?st=jfro26iyJBvIrP0PuXWJAg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "165",
+                "name": "Nat Geo HD",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1001.m3u8?st=M7oEM05Spf2PglOSZWt52g&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "166",
+                "name": "Discovery HD",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1002.m3u8?st=58pATCUqlczF29W4CXAAYw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "182",
+                "name": "Discovery Science HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.636.m3u8?st=xN78uRXQePGo9cre3Pn6ag&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "180",
+                "name": "TLC",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.638.m3u8?st=5q_t39riO_jQq1q1iZqpVA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "181",
+                "name": "ID Xtra HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.637.m3u8?st=sQLO8X1lSO86-K0CEtMYwg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "172",
+                "name": "Discovery TurboXtra",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57001.1320.m3u8?st=fzayFPRi0IR0eFo1jwf8FQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "183",
+                "name": "Animal Planet HD",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.635.m3u8?st=o_s1i3JJmI2_ubi2eJlU4g&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "66",
+                "name": "24 Kitchen",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1021.m3u8?st=xDotBitpuehx3YsYaM2ICA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "138",
+                "name": "Fox Life",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1025.m3u8?st=ZiHCzg67LmggJ8BR_g7o4A&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "139",
+                "name": "Fox",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1026.m3u8?st=8Jaen71ZrbJRh-HLhJ972w&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "186",
+                "name": "Comedy Extra",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.706.m3u8?st=wv8hmInTmnb_C8h_xAEA_A&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "171",
+                "name": "MTV Live HD",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1006.m3u8?st=GM8KTzvv7m4lAausQ0ZAlQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "141",
+                "name": "MAD TV",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57001.1034.m3u8?st=kp7HCs1tRoCyNFEWs5qDPA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "59",
+                "name": "Music AL",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2240.m3u8?st=Czjavxa_E5kVNveVrjB73Q&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "58",
+                "name": "ABC News",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2220.m3u8?st=rM4s8tIFMPs0SXUeA-LBjg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "71",
+                "name": "Alsat-M",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1029.m3u8?st=u5rh3njUs8NHlggyeRJOtA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "170",
+                "name": "Tribuna Channel",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1037.m3u8?st=klzqv60d3PllOwyMaLhBqg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "140",
+                "name": "City TV",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1022.m3u8?st=RE2w0KdcUzTXG-_wZ-Jumw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "74",
+                "name": "Era TV",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1036.m3u8?st=umPXDfPHkokp84w19jO9Aw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "60",
+                "name": "Channel One",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1021.m3u8?st=Dm1J8rHXYVUZoAiFRBNj8A&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "73",
+                "name": "First TV",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1034.m3u8?st=pplxrNetiM5lol31wRCLdg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "72",
+                "name": "Folklorit",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1033.m3u8?st=Q0OcLnfzr704Vpwgyp0AVg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "57",
+                "name": "Klan Kosova",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2210.m3u8?st=3gFuGSnK8NvGHHObifJKJQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "125",
+                "name": "KTV",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57001.1140.m3u8?st=gXhlZMf6iRPGYLNxz-RxLA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "131",
+                "name": "RTV 21",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1120.m3u8?st=DjfdEe8-kqaOw1V40D9o_g&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "130",
+                "name": "Ora News",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57000.1200.m3u8?st=9TbX8HQzmi9FgHUTV943Cg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "62",
+                "name": "Scan TV",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1023.m3u8?st=Cn5lat2U3pzXm7_54vyqBw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "70",
+                "name": "Report TV",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1031.m3u8?st=gQXHcj4x-YmJYFeQwz4Hhg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "122",
+                "name": "BCTV Europe",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57002.2230.m3u8?st=9L-tci6P70wiJwTH-8uajQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "63",
+                "name": "STV Folk",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57000.1024.m3u8?st=yhwbHFsuPZlztSR_zaSdLg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "69",
+                "name": "SuperSonic TV",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1030.m3u8?st=nMLoMn68fnYNKXVNw4WPDg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "61",
+                "name": "UTV News",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/232.1.0.168.57001.1035.m3u8?st=JjAd0lwo2zVy9zD4LUhwMg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "95",
+                "name": "Italia 1",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2820.m3u8?st=-QPOlBG9Q9Q-BRNsfqhxeQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "96",
+                "name": "Canale 5",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2800.m3u8?st=t4uM-rn1GOMvfqs5YxqSPg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "97",
+                "name": "Rai 1",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2760.m3u8?st=7_wwgCibvocsPnS-MtDqmA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "100",
+                "name": "Rai 2",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2780.m3u8?st=JXOpAd5mdkkukgCpNl6w0Q&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "101",
+                "name": "Rai 3",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/225.20.20.225.2000.8513.m3u8?st=LQhMtcPJ7JnhTRHi6DZAmQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "163",
+                "name": "Alpha",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2840.m3u8?st=gqpxS1-r2W-L10wPiiFwCw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "132",
+                "name": "France 24",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/225.20.20.225.2000.6906.m3u8?st=wriUTPs2uYbsmDoxY-rhiw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "133",
+                "name": "TV5Monde Europe",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/225.20.20.225.2000.6915.m3u8?st=wt3YM10_AJH_8XErHSlJ1g&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "117",
+                "name": "Russia Today",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/225.20.20.225.2000.6904.m3u8?st=Ap9U6WkBUjeKxXJeWO0NvQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "177",
+                "name": "CNN",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2920.m3u8?st=7gbjzS9Ma_EDeG5Tz8Czgg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "176",
+                "name": "BBC",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2940.m3u8?st=s_bju4Pu5T3QAVm2756gXg&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "178",
+                "name": "Fashion TV",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2860.m3u8?st=Fl9ovQBn2Xkraf_3QfICOw&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "94",
+                "name": "X1",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57001.1260.m3u8?st=bRK4NUJApSPcFzOaP--9lg&e=1453437736",
+                "shift_link": "",
+		        "pin": "1"
+            },{
+                "id": "55",
+                "name": "X2",
+                "link": "http://80.91.126.75:8080/80.91.123.66:8081/live/232.1.0.167.57003.2250.m3u8?st=64bC3Uz8oUODSjZVLlKUHQ&e=1453437736",
+                "shift_link": "",
+		        "pin": "1"
+            },{
+                "id": "135",
+                "name": "X3",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1041.m3u8?st=xknBsjZyziZT4x1Sf8zVYg&e=1453437736",
+                "shift_link": "",
+		        "pin": "1"
+            },{
+                "id": "168",
+                "name": "Dorcel HD",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57002.1007.m3u8?st=ZmL10sXJcGMtFOnJxczosw&e=1453437736",
+                "shift_link": "",
+		        "pin": "1"
+            },{
+                "id": "169",
+                "name": "Stars XXX",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/232.1.0.168.57003.1008.m3u8?st=2pS0uJ_wnvg3pi2ampIn6g&e=1453437736",
+                "shift_link": "",
+		        "pin": "1"
+            },{
+                "id": "175",
+                "name": "Euronews",
+                "link": "http://80.91.126.75:8080/80.91.123.73:8081/live/239.255.1.1.5000.2900.m3u8?st=2PUNWIx4LI0sJ1TPfqjL7w&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            },{
+                "id": "124",
+                "name": "CCTV4",
+                "link": "http://80.91.126.75:8080/80.91.123.72:8081/live/225.20.20.225.2000.7224.m3u8?st=XuyYPqrGv0kcDSJE6Ni2xA&e=1453437736",
+                "shift_link": "",
+		        "pin": "0"
+            }]}
